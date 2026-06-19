@@ -1,0 +1,4 @@
+SQLAlchemy==2.0.30
+psycopg2-binary
+alembic
+faker
